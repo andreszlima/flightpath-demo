@@ -1,24 +1,18 @@
-# README
+# Flightpath
+## Aplicação de demonstração para atendimento de voos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+Este aplicativo foi criado para operar 100% offline ou 100% online, dependendo da necessidade do usuário.
+Em algumas localidades a internet pode ser precária, por isso criei este aplicativo com esta capacidade. 
 
-* System dependencies
+Mais informações a serem adicionadas abaixo.
 
-* Configuration
+Por enquanto, caso queira testar o aplicativo online, vá para o link: www.flightpath-demo.herokuapp.com
 
-* Database creation
+Para mais informações: 
+* E-mail: andre.szlima1@gmail.com
+* Instagram: www.instagram.com/andreszlima
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+O repositório mais atualizado é privado no momento.
