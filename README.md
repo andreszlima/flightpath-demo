@@ -8,7 +8,7 @@ Em algumas localidades a internet pode ser precária, por isso criei este aplica
 
 Mais informações a serem adicionadas abaixo.
 
-Por enquanto, caso queira testar o aplicativo online, vá para o link: www.flightpath-demo.herokuapp.com
+Por enquanto, caso queira testar o aplicativo online, vá para o link: http://flightpath-demo.herokuapp.com/flights
 
 Para mais informações: 
 * E-mail: andre.szlima1@gmail.com
