@@ -17,4 +17,4 @@ Para mais informações:
 * Twitter: www.twitter.com/andreszlima
 
 
-O repositório privado, que contém o código atualizado está concluído. A versão do link acima está atualizada na última versão
+O repositório privado, que contém o código atualizado, está concluído. A versão do link acima está atualizada na última versão
