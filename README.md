@@ -11,8 +11,10 @@ Mais informações a serem adicionadas abaixo.
 Por enquanto, caso queira testar o aplicativo online, vá para o link: http://flightpath-demo.herokuapp.com/flights
 
 Para mais informações: 
+* Autor: André de Souza Lima
 * E-mail: andre.szlima1@gmail.com
 * Instagram: www.instagram.com/andreszlima
+* Twitter: www.twitter.com/andreszlima
 
 
-O repositório mais atualizado é privado no momento.
+O repositório privado, que contém o código atualizado está concluído. A versão do link acima está atualizada na última versão
