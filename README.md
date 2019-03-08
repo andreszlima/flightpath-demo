@@ -9,6 +9,7 @@ Em algumas localidades a internet pode ser precária, por isso criei este aplica
 Mais informações a serem adicionadas abaixo.
 
 Por enquanto, caso queira testar o aplicativo online, vá para o link: [andreszlima.com.br](http://www.andreszlima.com.br).
+
 É necessário, apenas, criar uma conta e testar. Todos os dados são criptografados utilizando bcrypt.
 
 Para mais informações: 
