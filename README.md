@@ -18,7 +18,7 @@ Sim, este programa funciona completamente offline. Para isto, entre em contato c
 
 Não, para o uso real, em produção, o navegador deve rodar em "kiosk mode", que habilita impressão automática.
 
-## Este programa é gratuito/código aberto?
+### Este programa é gratuito/código aberto?
 
 O programa não é gratuito. O repositório privado, que contém o código (proprietário e fechado) atualizado, está concluído. A versão do link [andreszlima.com.br](http://www.andreszlima.com.br) está atualizada na última versão
 
