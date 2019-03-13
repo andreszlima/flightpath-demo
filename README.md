@@ -29,4 +29,5 @@ A atualização de informações em tempo real é feita através do Redis, que t
 * Twitter: www.twitter.com/andreszlima
 
 
-O repositório privado, que contém o código (proprietário e fechado) atualizado, está concluído. A versão do link acima está atualizada na última versão
+## Este programa é gratuito/código aberto?
+O programa não é gratuito. O repositório privado, que contém o código (proprietário e fechado) atualizado, está concluído. A versão do link [andreszlima.com.br](http://www.andreszlima.com.br) está atualizada na última versão
