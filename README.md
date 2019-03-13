@@ -29,4 +29,4 @@ A atualização de informações em tempo real é feita através do Redis, que t
 * Twitter: www.twitter.com/andreszlima
 
 
-O repositório privado, que contém o código atualizado, está concluído. A versão do link acima está atualizada na última versão
+O repositório privado, que contém o código (proprietário e fechado) atualizado, está concluído. A versão do link acima está atualizada na última versão
