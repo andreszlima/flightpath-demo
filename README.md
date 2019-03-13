@@ -12,7 +12,8 @@ Por enquanto, caso queira testar o aplicativo online, vá para o link (é necess
 
 ### Funciona offline?
 
-Sim, este programa funciona completamente offline. Para isto, entre em contato comigo por e-mail (andre.szlima1@gmail.com / andreszlima@ufrn.edu.br)
+Sim, este programa funciona completamente offline. Para isto, entre em contato comigo por e-mail (andre.szlima1@gmail.com / andreszlima@ufrn.edu.br)<br>
+Apesar de rodar com um navegador (Google Chrome, por exemplo), o servidor pode ser executado na rede local e acessado por todos os outros usuários da mesma rede sem nenhuma conexão com a internet.
 
 ### Tenho que confirmar todas as vezes que for imprimir um cartão de embarque?
 
