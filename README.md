@@ -9,6 +9,8 @@ Em algumas localidades a internet pode ser precária, por isso criei este aplica
 Mais informações a serem adicionadas abaixo.
 
 Por enquanto, caso queira testar o aplicativo online, vá para o link (é necessário apenas criar uma conta, sem confirmação de e-mail, para testar): [andreszlima.com.br](http://www.andreszlima.com.br).<br><br>
+[Vídeo no youtube para mostrar funcionalidades básicas](https://youtu.be/AyV9l53ODdU)
+
 
 ### Funciona offline?
 
