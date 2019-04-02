@@ -23,7 +23,7 @@ Não, para o uso real, em produção, o navegador deve rodar em "kiosk mode", qu
 
 ### Este programa é gratuito/código aberto?
 
-O programa não é gratuito, já que foi criado para que empresas consigam ganhar dinheiro de forma mais rápida e eficiente! O repositório privado, que contém o código (proprietário e fechado) atualizado, está concluído. A versão do link [andreszlima.com.br](http://www.andreszlima.com.br) está atualizada na última versão
+Não, já que foi criado para que empresas consigam ganhar dinheiro de forma mais rápida e eficiente! O repositório privado, que contém o código (proprietário e fechado) atualizado, está concluído. A versão do link [andreszlima.com.br](http://www.andreszlima.com.br) está atualizada com a última versão
 
 #### Dados técnicos
 
