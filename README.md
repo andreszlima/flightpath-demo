@@ -8,7 +8,7 @@ Em algumas localidades a internet pode ser precária, por isso criei este aplica
 
 Mais informações a serem adicionadas abaixo.
 
-Por enquanto, caso queira testar o aplicativo online, vá para o link (é necessário apenas criar uma conta, sem confirmação de e-mail, para testar): [https://flightpath-demo.herokuapp.com](https://flightpath-demo.herokuapp.com).<br><br>
+Por enquanto, caso queira testar o aplicativo online, vá para o link (é necessário apenas criar uma conta, sem confirmação de e-mail, para testar): [https://flightpath-demo.herokuapp.com](https://flightpath-demo.herokuapp.com) (o primeiro carregamento deve demorar um pouco, já que o aplicativo hiberna após 30 min de inatividade. Caso ele não abra depois de algum tempo carregando me envie um e-mail que colocarei em funcionamento novamente).<br><br>
 [Vídeo no youtube para mostrar funcionalidades básicas](https://youtu.be/AyV9l53ODdU)
 
 
